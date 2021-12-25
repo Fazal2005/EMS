@@ -19,4 +19,4 @@ and add thing's below what i mention
 - dotenv
 
 #### Db format
-<img src="https://github.com/Fazal2005/EMS/blob/main/Server/users-db.jpeg" width="128"/>
+<img src="https://github.com/Fazal2005/EMS/blob/main/Server/users-db.jpeg" length="640" width="305"/>
