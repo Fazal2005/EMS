@@ -1,0 +1,7 @@
+express
+knex
+cors
+express-generator
+dotenv
+bcrypt
+jsonwebtoken
