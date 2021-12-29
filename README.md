@@ -21,5 +21,6 @@ and add thing's below what i mention
 - dotenv
 
 #### Db format
-<img src="https://github.com/Fazal2005/EMS/blob/main/server/employee-db.jpeg" length="640" width="305"/>
+<img src="https://github.com/Fazal2005/EMS/blob/main/server/employee_db.jpeg" length="640" width="305"/>
 <img src="https://github.com/Fazal2005/EMS/blob/main/server/users-db.jpeg" length="640" width="305"/>
+<img src="https://github.com/Fazal2005/EMS/blob/main/server/department_db.jpeg" length="640" width="305"/>
