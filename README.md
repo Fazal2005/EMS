@@ -5,7 +5,7 @@ Employee Management System
 *Dont Forget to make a .env file in server folder*
 and add thing's below what i mention
 #### .env
- DB_URL = *The db url* 
+ DB_URL = *The db url* \n
  SECRET_KEY = *any Random string here*
 #### knexfile.js
  change the *DB link* in marked place
