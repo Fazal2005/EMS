@@ -23,8 +23,8 @@ and add thing's below what i mention
 ### api for the CRUD 
 /api/employee<br />
 /api/department<br />
-/api/login<br />
-/api/register<br />
+/api/signin<br />
+/api/signup<br />
 
 #### Db format
 <img src="https://github.com/Fazal2005/EMS/blob/main/server/employee_db.jpeg" length="640" width="305"/>
