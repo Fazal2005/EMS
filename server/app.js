@@ -79,8 +79,8 @@ app.post("/api/email", function (request, response) {
     host: 'smtp.ethereal.email',
     port: 587,
     auth: {
-        user: 'vernon.rutherford14@ethereal.email',
-        pass: 'nSpmNHc1YfnKfczKfH'
+        user: 'username@gmail.com',
+        pass: 'your-password'
     }
 });
    
