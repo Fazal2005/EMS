@@ -25,6 +25,8 @@ and add thing's below what i mention
 /api/department<br />
 /api/signin<br />
 /api/signup<br />
+/api/application<br />
+/api/email<br />
 
 #### Db format
 <img src="https://github.com/Fazal2005/EMS/blob/main/server/employee_db.jpeg" length="640" width="305"/>
