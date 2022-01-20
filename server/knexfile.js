@@ -3,11 +3,11 @@
 module.exports = {
   development: {
     client: 'pg',
-    connection: 'postgres://ekbkzdvj:4FKUXKLKeP8sLrJPlnsJ87L5SOJlVTYU@tyke.db.elephantsql.com/ekbkzdvj'
+    connection: 'postgres://xxxxxxYOUR_DB_URLxxxxxxxxxx'
   },
   test: {
     client: 'pg',
-    connection: 'postgres://ekbkzdvj:4FKUXKLKeP8sLrJPlnsJ87L5SOJlVTYU@tyke.db.elephantsql.com/ekbkzdvj'
+    connection: 'postgres://xxxxxxxxYOUR_DB_URLxxxxxxxx'
   },
   production: {
     client: 'pg',
